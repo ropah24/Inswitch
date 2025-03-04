@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projectImages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "InSwitch"
+	}
+}
